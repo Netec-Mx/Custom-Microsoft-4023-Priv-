@@ -45,7 +45,6 @@ Paso 5. Escribir en el recuadro de chat la siguiente solicitud (prompt) y enviar
 Resume este documento.
 ```
 
-
 ![imagen archivo y prompt](../images/img4.png)
 
 Paso 6. Observar el resultado.
@@ -56,7 +55,7 @@ Paso 6. Observar el resultado.
 - ¿Responde realmente a una necesidad de negocio?
 - ¿Por qué el prompt es deficiente?
 
-### Tarea 2. Segunda interacción
+### Tarea 3. Segunda interacción
 Paso 1. En la misma conversación, redactar el siguiente prompt e incluir el archivo Informe_Proyecto_Q1.docx:
 
 ```text
@@ -83,7 +82,6 @@ Ajusta el resumen para que enfatice únicamente riesgos y próximos pasos.
 Observar cómo Copilot responde a la iteración, reforzando el carácter conversacional.
 
 ### Resultado esperado
-
 Al finalizar esta práctica, el participante será capaz de comprender que:
 - Un prompt mal definido produce respuestas genéricas.
 - Un prompt con contexto + fuente + objetivo + expectativa genera resultados más precisos, relevantes y profesionales.
