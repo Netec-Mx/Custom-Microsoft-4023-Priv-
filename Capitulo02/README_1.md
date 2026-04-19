@@ -42,7 +42,7 @@ Paso 4. Seleccionar archivo Informe_Proyecto_Q1.docx y confirmar que el archivo 
 Paso 5. Escribir en el recuadro de chat la siguiente solicitud (prompt) y enviarla (dar clic en la flecha de la esquina inferior derecha o presionar Enter).
 
 ```text
-Resume este documento.
+Resume este documento.```
 
 
 ![imagen archivo y prompt](../images/img4.png)
