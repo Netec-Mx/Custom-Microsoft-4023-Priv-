@@ -26,8 +26,8 @@ Paso 3. Dar clic en "Nuevo chat" para crear una nueva conversación y asegurarse
 
 ![imagen configuracion](../images/img1.png)
 
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Paso 1. Escribir en el recuadro de chat la siguiente solicitud (prompt) y enviarla (dar clic en la flecha de la esquina inferior derecha o presionar Enter).
+### Tarea 2. Interacción con M365 Copilot Chat
+Paso 1. Escribir en el recuadro de chat la siguiente solicitud (prompt) y enviarla (dar clic en la flecha de la esquina inferior derecha o presionar Enter).
 
 ```text
 Necesito realizar una sesión de brainstorming.
