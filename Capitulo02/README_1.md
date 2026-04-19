@@ -42,7 +42,8 @@ Paso 4. Seleccionar archivo Informe_Proyecto_Q1.docx y confirmar que el archivo 
 Paso 5. Escribir en el recuadro de chat la siguiente solicitud (prompt) y enviarla (dar clic en la flecha de la esquina inferior derecha o presionar Enter).
 
 ```text
-Resume este documento.```
+Resume este documento.
+```
 
 
 ![imagen archivo y prompt](../images/img4.png)
@@ -58,11 +59,13 @@ Paso 6. Observar el resultado.
 ### Tarea 2. Segunda interacción
 Paso 1. En la misma conversación, redactar el siguiente prompt e incluir el archivo Informe_Proyecto_Q1.docx:
 
-```Necesito preparar un resumen ejecutivo para la dirección general.
+```text
+Necesito preparar un resumen ejecutivo para la dirección general.
 Este resumen será utilizado en una reunión de seguimiento del proyecto.
 Extrae los puntos más relevantes del avance del proyecto.
 Usa únicamente el documento cargado “Informe_Proyecto_Q1.docx”.
-Resume el contenido en 5 viñetas claras, con tono ejecutivo y conciso, e incluye brevemente los riesgos identificados.```
+Resume el contenido en 5 viñetas claras, con tono ejecutivo y conciso, e incluye brevemente los riesgos identificados.
+```
 
 
 Paso 2. Enviar el prompt y analizar el nuevo resultado.
@@ -75,7 +78,7 @@ Paso 3. Refinar el prompt con una indicación adicional, por ejemplo:
 
 ```text
 Ajusta el resumen para que enfatice únicamente riesgos y próximos pasos.
-
+```
 
 Observar cómo Copilot responde a la iteración, reforzando el carácter conversacional.
 
