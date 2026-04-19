@@ -80,10 +80,10 @@ Ahora reescribe el correo con un tono empático, reconociendo el esfuerzo del eq
 
 Observar que ahora se reconoce el trabajo del equipo, se usa un lenguaje cercano pero profesional y hay un enfoque en confianza y colaboración.
 
-Paso 5. Compara los resultados:
+Paso 5. Comparar los resultados:
 
-- ¿Cuál usarías para enviar un correo a Dirección?
-- ¿Cuál enviarías directamente a tu equipo?
+- ¿Cuál usaría para enviar un correo a Dirección?
+- ¿Cuál enviaría directamente a su equipo?
 - ¿Cuál genera mayor confianza?
 
 
