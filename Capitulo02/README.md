@@ -1,41 +1,93 @@
-# Nombre del laboratorio 
+# Práctica 1. Creación de Prompts Efectivos en Microsoft 365 Copilot Chat
 
 ## Objetivo de la práctica:
-Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
-
-## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
-
-![diagrama1](../images/img1.png)
+Al finalizar esta actividad, serás capaz de identificar las deficiencias de un prompt mal definido, crear prompts efectivos incorporando contexto, fuente, objetivo y expectativa.
 
 ## Duración aproximada:
-- xx minutos.
+- 7 minutos.
 
 ## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+Para que puedas replicar esta práctica, se recomienda iniciar sesión con tu correo corporativo en la siguiente plataforma:
+
+| Sitio web | Enlace |
+| --- | --- | 
+| m365 Copilot | https://m365.cloud.microsoft/ |
 
 ## Instrucciones 
-<!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+Eres parte de un equipo de trabajo que debe preparar un resumen ejecutivo a partir de un documento extenso para compartirlo con la Dirección.
+Utilizarás Microsoft 365 Copilot Chat para generar el resumen y evaluar cómo cambia el resultado según la calidad del prompt.
 
-Paso 2. <!-- Añadir instrucción -->
+### Tarea 1. Acceso a Microsoft 365 Copilot Chat
+Paso 1. Acceder a m365 Copilot desde https://m365.cloud.microsoft/
 
-Paso 3. <!-- Añadir instrucción -->
+Paso 2. Iniciar sesión con cuenta profesional o educativa.
 
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+Paso 3. Dar clic en "Nuevo chat" para crear una nueva conversación y asegurarse de encontrarse en "modo web"
 
-Paso 2. <!-- Añadir instrucción -->
+![imagen configuracion](../images/img1.png)
 
-Paso 3. <!-- Añadir instrucción -->
+### Tarea 2. Primera interacción
+Paso 1. Descargar el archivo [Informe_Proyecto_Q1.docx](../images/Informe_Proyecto_Q1.docx)
+
+Paso 2. En el recuadro del prompt, seleccionar (+) Agregar contenido.
+
+Paso 3. Seleccionar Cargar imágenes y archivos. 
+
+![imagen cargar archivos](../images/img2.png)
+
+Paso 4. Seleccionar archivo Informe_Proyecto_Q1.docx y confirmar que el archivo se integre en el recuadro de chat.
+
+![imagen carga documento](../images/img3.png)
+
+Paso 5. Escribir en el recuadro de chat la siguiente solicitud (prompt) y enviarla (dar clic en la flecha de la esquina inferior derecha o presionar Enter).
+
+    ```
+    Resume este documento.
+    ```
+
+![imagen archivo y prompt](../images/img4.png)
+
+Paso 6. Observar el resultado.
+
+- ¿Es claro?
+- ¿Está orientado a alguien en particular?
+- ¿El nivel de detalle es adecuado?
+- ¿Responde realmente a una necesidad de negocio?
+- ¿Por qué el prompt es deficiente?
+
+### Tarea 2. Segunda interacción
+Paso 1. En la misma conversación, redactar el siguiente prompt e incluir el archivo Informe_Proyecto_Q1.docx:
+
+    ```
+    Necesito preparar un resumen ejecutivo para la dirección general.
+
+    Este resumen será utilizado en una reunión de seguimiento del proyecto.
+    Extrae los puntos más relevantes del avance del proyecto.
+    Usa únicamente el documento cargado “Informe_Proyecto_Q1.docx”.
+    Resume el contenido en 5 viñetas claras, con tono ejecutivo y conciso, e incluye brevemente los riesgos identificados.
+    ```
+
+Paso 2. Enviar el prompt y analizar el nuevo resultado.
+
+- ¿Cuál respuesta utilizaría en un entorno real de trabajo?
+- ¿Qué mejoras específicas observa?
+- ¿Qué elemento del prompt tuvo mayor impacto en el resultado?
+
+Paso 3. Refinar el prompt con una indicación adicional, por ejemplo:
+
+    ```
+    Ajusta el resumen para que enfatice únicamente riesgos y próximos pasos.
+    ```
+
+Observar cómo Copilot responde a la iteración, reforzando el carácter conversacional.
 
 ### Resultado esperado
-En esta sección, se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+
+Al finalizar esta práctica, el participante será capaz de comprender que:
+- Un prompt mal definido produce respuestas genéricas.
+- Un prompt con contexto + fuente + objetivo + expectativa genera resultados más precisos, relevantes y profesionales.
+- La calidad del resultado depende directamente de la calidad del prompt.
+
+Se obtendrá un resultado parecido a:
+
+![imagen resultado](../images/img5.png)
