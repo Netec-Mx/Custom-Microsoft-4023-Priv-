@@ -1,4 +1,4 @@
-# Práctica 3. Resumen y Análisis: Resumir textos largos, extrae puntos clave, identifica riesgos o conclusiones, resumir el siguiente contenido en 5 puntos clave y destaca posibles riesgos
+# Resumen y Análisis: Resumir textos largos, extrae puntos clave, identifica riesgos o conclusiones, resumir el siguiente contenido en 5 puntos clave y destaca posibles riesgos
 
 ## Objetivo de la práctica:
 Al finalizar esta actividad, serás capaz de utilizar Copilot Chat para resumir textos largos de manera efectiva, extraer puntos clave relevantes para un contexto laboral e identificar riesgos y conclusiones a partir de un documento.
