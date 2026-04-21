@@ -30,6 +30,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
   - ⏱️ **Duración estimada**: 7 min
 
 
+### Capítulo 4: Trabaja de forma más inteligente con Microsoft 365 Copilot Chat 
 
 ### [Laboratorio 2. Redacción Corporativa: Mejora redacción de correos, ajusta tono (formal, ejecutivo, empático), crea borradores de comunicados](Capitulo04/README_2.md) 
 
