@@ -1,4 +1,4 @@
-# Práctica 6. Generador de Estructuras: Crea estructuras de documentos, diseña esquemas de presentaciones, organiza ideas
+# Generador de Estructuras: Crea estructuras de documentos, diseña esquemas de presentaciones, organiza ideas
 
 ## Objetivo de la práctica:
 Al finalizar esta actividad serás capaz de utilizar Microsoft 365 Copilot Chat para crear estructuras de documentos, diseñar esquemas de presentaciones ejecutivas, organizar ideas dispersas sobre ventas, clientes y operaciones en contenido estructurado y coherente.
