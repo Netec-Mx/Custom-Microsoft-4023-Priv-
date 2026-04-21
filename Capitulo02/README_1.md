@@ -1,4 +1,4 @@
-# Práctica 1. Creación de Prompts Efectivos en Microsoft 365 Copilot Chat
+# Creación de Prompts Efectivos en Microsoft 365 Copilot Chat
 
 ## Objetivo de la práctica:
 Al finalizar esta actividad, será capaz de identificar las deficiencias de un prompt mal definido, crear prompts efectivos incorporando contexto, fuente, objetivo y expectativa.
