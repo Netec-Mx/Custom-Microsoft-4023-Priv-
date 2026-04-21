@@ -1,4 +1,4 @@
-# Práctica 5. Documentación y Procedimientos: Convierte texto informal en procedimientos, organiza pasos, mejora documentación técnica
+# Documentación y Procedimientos: Convierte texto informal en procedimientos, organiza pasos, mejora documentación técnica
 
 ## Objetivo de la práctica:
 Al finalizar esta actividad, serás capaz de utilizar Microsoft 365 Copilot Chat para convertir texto informal en procedimientos estructurados, organizar información dispersa en pasos claros y ordenados y mejorar la claridad, consistencia y profesionalismo de la documentación técnica.
