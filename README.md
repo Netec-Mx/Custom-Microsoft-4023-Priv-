@@ -21,6 +21,7 @@ Te damos la bienvenida a la **plataforma de laboratorios** del curso **Transform
 Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
 
 
+### Capítulo 2: Escribir prompts efectivos para lograr resultados óptimos
 
 ### [Laboratorio 1. Creación de Prompts Efectivos en Microsoft 365 Copilot Chat](Capitulo02/README_1.md) 
 
