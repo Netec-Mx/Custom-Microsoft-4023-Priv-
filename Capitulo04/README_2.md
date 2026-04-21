@@ -1,4 +1,4 @@
-# Práctica 2. Redacción Corporativa: Mejora redacción de correos, ajusta tono (formal, ejecutivo, empático), crea borradores de comunicados
+# Redacción Corporativa: Mejora redacción de correos, ajusta tono (formal, ejecutivo, empático), crea borradores de comunicados
 
 ## Objetivo de la práctica:
 Al finalizar esta actividad, serás capaz de utilizar Copilot Chat para mejorar la redacción de correos corporativos, ajustar el tono del mensaje según el público objetivo y crear borradores claros y profesionales a partir de texto base.
