@@ -1,4 +1,4 @@
-# Práctica 4. Traductor Técnico: Traduce lenguaje técnico a lenguaje simple, explica errores o conceptos TI
+# Traductor Técnico: Traduce lenguaje técnico a lenguaje simple, explica errores o conceptos TI
 
 ## Objetivo de la práctica:
 Al finalizar esta actividad, serás capaz de utilizar Microsoft 365 Copilot Chat para traducir lenguaje técnico a lenguaje simple, explicar errores técnicos y conceptos de TI a audiencias no técnicas y ajustar el nivel de profundidad de la explicación según el público.
