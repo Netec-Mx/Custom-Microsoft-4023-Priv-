@@ -1,4 +1,4 @@
-# Práctica 7. Ideas y Brainstorming: propone opciones, ayuda a analizar escenarios, apoya sesiones de ideación
+# Ideas y Brainstorming: propone opciones, ayuda a analizar escenarios, apoya sesiones de ideación
 
 ## Objetivo de la práctica:
 Al finalizar esta actividad, serás capaz de utilizar Microsoft 365 Copilot Chat para proponer ideas y opciones, apoyar sesiones de brainstorming estructuradas, analizar escenarios posibles, ventajas y riesgos de cada opción.
